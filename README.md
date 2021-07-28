@@ -18,3 +18,10 @@ git reset HEAD~1
 git config --global user.name myusername
 git config --global user.email myemail
 ```
+
+## How to create branch and switch to that branch in git
+
+```
+git checkout -b <branch_name>
+
+```
